@@ -1,0 +1,4 @@
+# Bloquear acesso a arquivos que começam com .
+<FilesMatch "^\.">
+    Require all denied
+</FilesMatch>

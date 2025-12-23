@@ -1,0 +1,7 @@
+data/*
+!data/.blank
+!data/.htaccess
+cache/*
+!cache/.blank
+!cache/.htaccess
+config/index.php
