@@ -284,7 +284,7 @@ Este projeto é de uso pessoal e educacional.
 
 ## 👤 Autor
 
-Ricardo LG
+@kadukko - Ricardo Henrique Marques de Souza Oliveira
 
 ## 🔗 Links Úteis
 
@@ -293,20 +293,5 @@ Ricardo LG
 - [Tailwind CSS](https://tailwindcss.com/)
 - [B3 - Bolsa de Valores](https://www.b3.com.br/)
 
-## 📈 Roadmap
-
-- [ ] Adicionar mais indicadores técnicos
-- [ ] Implementar alertas de preço
-- [ ] Criar dashboard com múltiplos gráficos
-- [ ] Adicionar comparação entre ações
-- [ ] Implementar exportação de dados (CSV/Excel)
-- [ ] Adicionar modo dark/light
-- [ ] Criar aplicativo mobile
-
-## 🤝 Contribuição
-
-Sugestões e melhorias são bem-vindas! Abra uma issue ou envie um pull request.
-
----
 
 **Desenvolvido com ❤️ para traders e investidores brasileiros**
