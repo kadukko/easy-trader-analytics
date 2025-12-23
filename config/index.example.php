@@ -1,8 +1,5 @@
 <?php
 
-define('USERNAME', 'admin');
-define('PASSWORD', 'password123');
-
 define('BRAPI_API_KEY', 'INSERT_YOUR_API_KEY_HERE');
 
 define('STOCK_SYMBOLS', [
